@@ -51,9 +51,5 @@ joblib
 scikit-learn
 ```
 
-## 🤝 Contributing  
-Pull requests are welcome!
 
-## 📄 License  
-MIT License.
 
